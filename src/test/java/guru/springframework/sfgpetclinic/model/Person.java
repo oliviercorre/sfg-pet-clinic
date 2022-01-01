@@ -1,7 +1,7 @@
 package guru.springframework.sfgpetclinic.model;
 
 /**
- * Created by jt on 7/13/18.
+ * Created by ic on 7/13/18.
  */
 public class Person {
 
